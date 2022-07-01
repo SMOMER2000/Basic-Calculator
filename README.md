@@ -1,2 +1,2 @@
-# Basic-Calculator
-A basic athematic calculator using python
+# Calculator
+A athematic calculator using python
